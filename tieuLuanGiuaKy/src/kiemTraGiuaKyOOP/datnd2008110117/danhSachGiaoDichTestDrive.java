@@ -10,8 +10,8 @@ public class danhSachGiaoDichTestDrive {
     
             do{
                 System.out.println("=======MENU===========");
-                System.out.println(">>0: Thoat");
-                System.out.println(">>1Them giao dich dat");
+                System.out.println(">>0: OUT ");
+                System.out.println(">>1 Them giao dich dat");
                 System.out.println(">>2 Them giao dich nha");
                 System.out.println(">>3 Hien Thi danh sach gd ");
                 System.out.println(">>4 Tong");
